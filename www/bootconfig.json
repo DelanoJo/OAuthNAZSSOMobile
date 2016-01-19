@@ -1,0 +1,13 @@
+{
+  "remoteAccessConsumerKey": "3MVG98EE59.VIHmy5jyRCkic0w.WMw5OxYYGUItE1uyIudnEkY7vQs0_ZA4o69XofOU_DFnUaQD5cGLHVM2pj",
+  "oauthRedirectURI": "oauthpoc://auth/success",
+  "oauthScopes": [
+    "web",
+    "api"
+  ],
+  "isLocal": true,
+  "startPage": "index.html",
+  "errorPage": "error.html",
+  "shouldAuthenticate": true,
+  "attemptOfflineLoad": false
+}
